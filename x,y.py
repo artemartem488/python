@@ -1,0 +1,1 @@
+my_dict = {'Ann':80,'Nikolay':40,'Sofiya':55,}
